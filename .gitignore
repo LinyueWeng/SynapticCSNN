@@ -1,0 +1,16 @@
+
+.idea/
+
+extracted_feature/
+.venv/
+venv/
+ENV/
+
+__pycache__/
+*.py[cod]
+figures/
+
+data/MNIST
+data/FashionMNIST/
+data/cifar-10-python.tar.gz
+git rm -r --cached extracted_feature/
